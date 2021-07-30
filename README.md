@@ -2,7 +2,7 @@
 Mini Project From CS Students in Vassireddy Venkatadri Institute Of Technology (VVIT) 
 
 # Output
-(images)[C:\Users\dell\OneDrive\Pictures\Screenshots]
+
 
 # :octocat: How to contribute?
 
